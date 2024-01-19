@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMOFORMVC", "DEMOFORMVC\DEMOFORMVC.csproj", "{ABFA2A98-755F-42E6-8CC7-DA2A4E568B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFA2A98-755F-42E6-8CC7-DA2A4E568B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFA2A98-755F-42E6-8CC7-DA2A4E568B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFA2A98-755F-42E6-8CC7-DA2A4E568B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFA2A98-755F-42E6-8CC7-DA2A4E568B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57A50A3-06E6-402B-9AC8-16A98EB4EF6C}
+	EndGlobalSection
+EndGlobal
